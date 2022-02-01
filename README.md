@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @dede0330 aka RastaDeDe  
+- 👋 Hi, I am DeAndre Bloomfield aka @dede0330 aka RastaDeDe  
 - 👀 I’m interested in programing lanagues and adding my unique twist to projects. Video games and twitch streaming. Oh yea i love fishing as well
-- 🌱 I’m currently learning backend development and server side applications.
+- 🌱 I’m currently learning full stack development and server side applications via Flatiron School Bootcamp 
 - 💞️ I’m looking to collaborate on anything and everything apps, webapps, software designs and much more.
 - 📫 How to reach me you Im on all platforms 
+    
+    www.linkedin.com/in/deandre-bloomfield-2573a133
     https://twitter.com/rastadeedee
-    https://www.twitch.tv/rastadede
    
                      ."`".
               .-./ _=_ \.-.
