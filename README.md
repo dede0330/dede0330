@@ -1,38 +1,23 @@
-- 👋 Hi, I am DeAndre Bloomfield aka @dede0330 aka RastaDeDe  
-- 👀 I’m interested in programing lanagues and adding my unique twist to projects. Video games and twitch streaming. Oh yea I love fishing as well
-- 🌱 I’m currently learning full stack development and server side applications via Flatiron School Bootcamp 
-- 💞️ I’m looking to collaborate on anything and everything apps, webapps, software designs and much more.
-- 📫 How to reach me you Im on all platforms 
+# DeAndre Bloomfield 😃
 
-Currently Learning Ruby and JavaScript, Backend Framework Stontra, Rails 
-    
-    www.linkedin.com/in/deandre-bloomfield-2573a133
-    https://twitter.com/rastadeedee
-   
-                     ."`".
-              .-./ _=_ \.-.
-             {  (,(oYo),) }}
-             {{ |   "   |} }
-             { { \(---)/  }}
-             {{  }'-=-'{ } }
-             { { }._:_.{  }}
-             {{  } -:- { } }
-       RDD   {_{ }`===`{  _}
-            ((((\)     (/))))
+- Full Stack Operator
+- Learning from home
 
-------------------------------------------------
-Thank you for visiting https://asciiart.website/
-This ASCII pic can be found at
-https://asciiart.website/index.php?art=animals/gorillas
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working at UPS
+- 🌱 I’m currently learning Full Stack Dev.
+- 👯 I’m looking to collaborate on apps and webapps.
+- 💬 Ask me about you want.
+- 📫 How to reach me: [DeAndre mailto:deandre.bloomfield@gmail.com)
+- 😄 Pronouns: he / him
 
 
-------------------------------------------------
-Thank you for visiting https://asciiart.website/
-This ASCII pic can be found at
-https://asciiart.website/index.php?art=animals/gorillas
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dede0330&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Twitter Badge](https://img.shields.io/badge/@rastadeedee-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rastadeedee)](https://twitter.com/RastaDeeDee) 
+[![Gmail Badge](https://img.shields.io/badge/deandre.bloomfield@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deandre.bloomfield@gmail.com)](mailto:deandre.bloomfield@gmail.com) 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dede0330)
+![]([https://komarev.com/ghpvc/?username=dede0330&color=0366d6](https://komarev.com/ghpvc/?username=dede0330&color=0366d6))
 
-<!---
-dede0330/dede0330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐️ From [DeAndre Bloomfield]([https://github.com/dede0330](https://github.com/dede0330))
