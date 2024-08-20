@@ -1,14 +1,14 @@
 # DeAndre Bloomfield 😃
 
-- Full Stack Operator
-- Learning from home
+- Full Stack Developer
+- Learning from Bloom Tech
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working at UPS
 - 🌱 I’m currently learning Full Stack Dev.
 - 👯 I’m looking to collaborate on apps and webapps.
-- 💬 Ask me about you want.
+- 💬 Still Building my portfolio.
 - 📫 How to reach me: [DeAndre mailto:deandre.bloomfield@gmail.com)
 - 😄 Pronouns: he / him
 
